@@ -28,9 +28,9 @@ MODEL:
 
 
 TRAIN: 
-    exp_tag: 'initialTry'
+    exp_tag: 'initialTryEP61'
     ROOT: '../../../dataset/representations/uncond/remi/ailab17k_from-scratch_remi'
-    midiDIR: '../../YJ_vq_trans/vqBarEncs/'
+    midiDIR: '/kaggle/input/lmd-mel-ep61/sprseTrk_mel_ep61/'
     selected_songs_json: './dataset/selected_songs_id_new.json'
     gpuID: '1'
     output_dir: "./ckpts"
