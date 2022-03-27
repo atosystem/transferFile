@@ -14,7 +14,7 @@ import random
 import json
 import torch
 
-GM1_inst_groups_FP = "/home/atosystem/nas_disk/projects/multitrack/remi-xl_remiMulti/dataset/GM1_inst_groups.json"
+GM1_inst_groups_FP = "./dataset/GM1_inst_groups.json"
 
 with open(GM1_inst_groups_FP) as f:
     GM1_inst_groups = json.load(f)
