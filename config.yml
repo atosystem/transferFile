@@ -31,7 +31,7 @@ TRAIN:
     exp_tag: 'initialTryEP61'
     ROOT: '../../../dataset/representations/uncond/remi/ailab17k_from-scratch_remi'
     midiDIR: '/kaggle/input/lmd-mel-ep61/sprseTrk_mel_ep61/'
-    selected_songs_json: './dataset/selected_songs_id_new.json'
+    selected_songs_json: './dataset/selected_songs_id_new_mel_sprse.json'
     gpuID: '1'
     output_dir: "./ckpts"
     batch_size: 2  #5
