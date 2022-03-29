@@ -1,0 +1,68 @@
+{
+    "instruments_groups" : [
+        {
+            "name": "Piano",
+            "programs": [1,2,3,4,5,6,7,8]
+        },
+        {
+            "name": "Strings",
+            "programs": [41,42,43,44,45,46,47,48]
+        }, 
+        {
+            "name": "Chromatic_Percussion",
+            "programs": [9,10,11,12,13,14,15,16]
+        },
+        {
+            "name": "Organ",
+            "programs": [17,18,19,20,21,22,23,24]
+        },
+        {
+            "name": "Guitar",
+            "programs": [25,26,27,28,29,30,31,32]
+        },
+        {
+            "name": "Bass",
+            "programs": [33,34,35,36,37,38,39,40]
+        },
+        {
+            "name": "Ensemble",
+            "programs": [49,50,51,52,53,54,55,56]
+        },
+        {
+            "name": "Brass",
+            "programs": [57,58,59,60,61,62,63,64]
+        },
+        {
+            "name": "Reed",
+            "programs": [65,66,67,68,69,70,71,72]
+        },
+        {
+            "name": "Pipe",
+            "programs": [73,74,75,76,77,78,79,80]
+        },
+        {
+            "name": "Synth_Lead",
+            "programs": [81,82,83,84,85,86,87,88]
+        },
+        {
+            "name": "Synth_Pad",
+            "programs": [89,90,91,92,93,94,95,96]
+        },
+        {
+            "name": "Synth_Effects",
+            "programs": [97,98,99,100,101,102,103,104]
+        },
+        {
+            "name": "Ethnic",
+            "programs": [105,106,107,108,109,110,111,112]
+        },
+        {
+            "name": "Percussive",
+            "programs": [113,114,115,116,117,118,119,120]
+        },
+        {
+            "name": "Sound_Effects",
+            "programs": [121,122,123,124,125,126,127,128]
+        }
+    ]
+}
